@@ -17,8 +17,11 @@ The material was compiled by me for learning purposes using multiple sources inc
 - Switching behavior and device comparison
 
 ## Files in this Repository
-- `Semiconductor_Switching_Devices_Notes_Nikhil_Abboju.pdf`
-- `Power_Electronics_Switching_QA_Nikhil_Abboju.pdf`
+## Download Files
+
+- 📄 [Semiconductor Switching Devices Notes](Semiconductor_Switching_Devices_Notes_Nikhil_Abboju.pdf)
+- 📄 [Power Electronics Switching Q&A](Power_Electronics_Switching_QA_Nikhil_Abboju.pdf)
+
 
 ## Purpose
 These notes are prepared for:
