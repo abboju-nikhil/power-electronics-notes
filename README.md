@@ -1,15 +1,14 @@
 # Power Electronics Notes
 
-This repository contains study material on semiconductor switching devices.
+This repository contains study material on **Semiconductor Switching Devices** used in Power Electronics.
 
-The material was compiled by me for learning purposes using multiple sources
-including textbooks, online resources, and AI-assisted tools.
+The material was compiled by me for learning purposes using multiple sources including textbooks, online resources, and AI-assisted tools.
 
-Contents:
+## Contents
 1. Semiconductor Switching Devices Notes
 2. Conceptual Q&A for Power Electronics Switching Devices
 
-Topics covered:
+## Topics Covered
 - PN junction and depletion region
 - Rectifier diodes
 - Bipolar Junction Transistor (BJT)
@@ -17,4 +16,17 @@ Topics covered:
 - Insulated Gate Bipolar Transistor (IGBT)
 - Switching behavior and device comparison
 
-Prepared by: Nikhil Abboju | 2026
+## Files in this Repository
+- `Semiconductor_Switching_Devices_Notes_Nikhil_Abboju.pdf`
+- `Power_Electronics_Switching_QA_Nikhil_Abboju.pdf`
+
+## Purpose
+These notes are prepared for:
+- Power Electronics study
+- Conceptual understanding
+- Interview preparation
+
+---
+
+**Prepared by:** Nikhil Abboju  
+**Year:** 2026
